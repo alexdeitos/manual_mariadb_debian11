@@ -121,5 +121,5 @@ Pressione Ctrl + c para voltar a linha de comando
 #Acesse o banco de dados para criar os usuários para acesso e restaurar dumps:
 <pre><code>./mysql -u root -p (dar enter sem senha mesmo)</code></pre>
         
-#### Dúvidas: alexsandro.deitos@linx.com.br
+#### https://github.com/alexdeitos/
      
